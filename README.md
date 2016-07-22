@@ -10,4 +10,6 @@ DoubleBetting is a gambling script for www.csgodouble.com I made for a friend, s
 1. Navigate to `https://raw.githubusercontent.com/mandreasen/DoubleBetting/master/DoubleBetting.user.js` or click [here](https://raw.githubusercontent.com/mandreasen/DoubleBetting/master/DoubleBetting.user.js).
 2. When the editor has loaded, click `Install` (*NOT* `Process with Chrome`).
 
+*CSGODouble.com is closing Tuesday, July 26th 2016 so the script will not be updated any more.*
+
 *NOTE: I don't take responsibility whatsoever for any breach of the csgodouble rules. If the script break any rules.*
